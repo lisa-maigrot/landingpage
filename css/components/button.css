@@ -1,0 +1,14 @@
+.button-blue {
+  background-color: royalblue;
+  padding: 10px 15px;
+  border-radius: 12px;
+  color: white;
+  opacity: 0.8;
+  font-family: "Lato";
+  font-size: 18px;
+}
+
+.button-blue:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
